@@ -10,3 +10,9 @@ A Beginner’s Guide to npm — the Node Package Manager
 
 https://www.sitepoint.com/beginners-guide-node-package-manager/
 
+https://github.com/bitcoinjs/bip39
+
+https://bitcore.io/api/lib/transaction
+
+https://github.com/bitcoinjs/bitcoinjs-lib
+
