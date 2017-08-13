@@ -36,3 +36,8 @@ var hexdata = ""
 
 
 82 Error: The amount of data is too big to be stored in a QR Code
+
+
+dumpprivkey "mtyHrM2HrgdmqzvHd6FCWKRXEp74epGY65"
+
+cSwJfUZqxx5zSNCW7wXbLbZqd51mA2PjFHrUaP6Y9SXvJD5qhsei
