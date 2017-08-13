@@ -35,3 +35,4 @@ var hexdata = ""
     );
 
 
+82 Error: The amount of data is too big to be stored in a QR Code
