@@ -16,3 +16,22 @@ https://bitcore.io/api/lib/transaction
 
 https://github.com/bitcoinjs/bitcoinjs-lib
 
+
+C:\Users\  \AppData\Roaming\Bitcoin add bitcoin.conf  server=1
+
+C:\Program Files\Bitcoin\daemon add to enviroment path
+
+run ./bitcoind -testnet
+
+
+var cmd=require('node-cmd');
+
+var hexdata = ""
+   cmd.get(
+        "bitcoin-cli -testnet decoderawtransaction "+hexdata,
+        function(err, data, stderr){
+            console.log('the current working dir is : ',data)
+        }
+    );
+
+
