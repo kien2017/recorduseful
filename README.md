@@ -59,10 +59,4 @@ var utxo = new UnspentOutput({
   "scriptPubKey" : "76a914089acaba6af8b2b4fb4bed3b747ab1e4e60b496588ac",
   "amount" : 0.00070000
 });
-var utxo = new UnspentOutput({
-  "txId" : "a0a08e397203df68392ee95b3f08b0b3b3e2401410a38d46ae0874f74846f2e9",
-  "outputIndex" : 0,
-  "address" : "mgJT8iegL4f9NCgQFeFyfvnSw1Yj4M5Woi",
-  "script" : "76a914089acaba6af8b2b4fb4bed3b747ab1e4e60b496588ac",
-  "satoshis" : 70000
-});
+
