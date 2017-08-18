@@ -83,3 +83,6 @@ que ding zui da qrcode wei 1338 chang du
 fa song de shi hou cai zhidao Size  zhe jiu shi wei shen me zai xian qian bao keyi zhidao Size da xiao
 
  electron-packager . youwangduan --platform=win32 --arch=ia32 --electron-version=1.6.11
+ electron-packager . wuwangduan --platform=win32 --arch=ia32 --electron-version=1.6.11
+ 
+ copy node_modules to newapp app node_modules
