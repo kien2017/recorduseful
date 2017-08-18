@@ -81,3 +81,5 @@ que ding zui da qrcode wei 1338 chang du
 
 "010000000195dc352c4b013ad73389612577623b62bb46a20dc5f06d83fa485304a86a1eec010000006b48304502210085857cc563d9ff31fc129033f6fb3cc218529c452ea0f56f0b50778eb61e465002200c4613e30247209d793d344f7721f9d834583f3f66c6d71f6570dd9173e9030f012103c38abb975a534b32f34eb29cb8ea5fd144ff5ef2947eaa171c4c45094693ecdbffffffff02dcc0a40e000000001976a914fca96f3cdfd8add88b2995d0e75832fc7d81aca988ace0e03b1a000000001976a914199e9448ec02f2fd90594cbec261b6428d1b1a7988ac00000000".length/2   Size 226 (bytes) jiu shi  452/2  zi fu chuan de changdu
 fa song de shi hou cai zhidao Size  zhe jiu shi wei shen me zai xian qian bao keyi zhidao Size da xiao
+
+ electron-packager . youwangduan --platform=win32 --arch=ia32 --electron-version=1.6.11
