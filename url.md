@@ -1,5 +1,11 @@
 tianjia C:\Program Files (x86)\Bitcoin\daemon dao path  bitcoin-cli cai keyi fangwen
 
+# server=1 tells Bitcoin-Qt and bitcoind to accept JSON-RPC commands
+#server=0
+bitcoin.conf
+
+bitcoin-cli -testnet getinfo
+
 
 https://bitcoin.org/en/glossary/p2pkh-address
 https://easonwang01.gitbooks.io/blockchain/content/bitcoin%E4%BB%8B%E7%B4%B9/bitcoinqi-ta-zhi-shi.html
