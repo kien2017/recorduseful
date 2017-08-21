@@ -1,4 +1,6 @@
 # recorduseful
+https://multibit.org/blog/2013/07/24/how-to-check-signatures.html
+
 
 How to verify your Ubuntu download
 https://tutorials.ubuntu.com/tutorial/tutorial-how-to-verify-ubuntu?_ga=2.202051416.874766556.1503280058-1492176169.1503280058#0
