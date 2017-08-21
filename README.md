@@ -1,5 +1,10 @@
 # recorduseful
 
+How to verify your Ubuntu download
+https://tutorials.ubuntu.com/tutorial/tutorial-how-to-verify-ubuntu?_ga=2.202051416.874766556.1503280058-1492176169.1503280058#0
+
+gpg --keyserver hkp://keyserver.ubuntu.com --recv-keys 0xFBB75451 0xEFE21092
+
 Knex.js is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, and Oracle designed to be flexible,
 
 Getting Test-Driven Development (TDD) Right
